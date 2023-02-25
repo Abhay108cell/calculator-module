@@ -1,0 +1,9 @@
+{
+    "name": "calculator",
+    "version": "1.0.0",
+    "description": "A module for performing basic arithmetic calculations",
+    "main": "calculator.js",
+    "dependencies": {
+        "calculator": "^0.1.12"
+    }
+}
